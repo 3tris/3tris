@@ -5,7 +5,7 @@ I'm a Computer Science Graduate and Data Engineering Trainee (DEPI), skilled in 
 ### What I'm Focusing On
 
 - Building end-to-end data pipelines (SQL → Python → Airflow → Cloud)
-- Backend development with Django & REST APIs
+- Data Engineering
 
 ### Languages, Tools & Databases
 
